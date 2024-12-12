@@ -1,10 +1,4 @@
-- Hi, I’m @Princessrgb
-- I’m interested in Software development, Coding and Product Management
-- I’m currently learning at the University of Port Elizabeth
-- I’m looking to collaborate on open source projects and coding challenges
-- How to reach me Call : 075 238 9203
-- Pronouns: She
-- ⚡ Fun fact: Intoverted and Observant
+Hi, I’m Princess Moela! I’m new to GitHub and excited to dive into open-source and collaborate on interesting projects. I’m passionate about learning and growing as a developer, and I’m looking forward to contributing to the community. Stay tuned for my future projects!
 
 <!---
 Princessrgb/Princessrgb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
